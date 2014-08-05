@@ -1,0 +1,73 @@
+.center {
+  text-align: center;
+  margin: auto;
+}
+
+.noEdit {
+  font-weight: bold;
+}
+
+.buttonWrapper {
+  text-align: center;
+  margin: 25px;
+}
+
+.background {
+  background: #F0F0F0;
+}
+
+.selected {
+  background-color: #66CCCC;
+}
+
+.indie {
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5em;
+}
+
+.button-custom {
+  margin: 0px 20px 0px 20px;
+  font-size: 1.2em;
+  color: white;
+  background: #9999FF;
+  border-radius: 4px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+/*.check-button {
+  background: #9999FF;
+}
+
+.new-button {
+  background: #9999FF;
+}*/
+
+.valid-solution{
+  background: #66FFCC;
+}
+
+.not-valid-solution {
+  background: #FF6262;
+}
+
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 2.5em;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  width: 3rem;
+  height: 3rem;
+  border: 1px solid #ccc;
+  text-align: center;
+  font-size: 1.1em;
+}
+
+body {
+  padding: 1rem;
+}
